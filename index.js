@@ -61,7 +61,7 @@ ${response.installation}
 ${response.usage}
 
 # License
-${response.licenses}
+${response.license}
 
 # Author
 ${response.author}
